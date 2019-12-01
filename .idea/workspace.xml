@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="65395590-e7bd-4706-aae1-7b61dd68eb28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aws-cdk-sample.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aws-cdk-sample.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/aws-cdk-sample-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aws-cdk-sample-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +29,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apps/hello/hooks" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/hello/hooks" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -57,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575088636162</updated>
-      <workItem from="1575088640708" duration="6427000" />
+      <workItem from="1575088640708" duration="28833000" />
     </task>
     <servers />
   </component>
@@ -71,7 +80,26 @@
         <option value="$PROJECT_DIR$/lib/aws-cdk-sample-stack.js" />
         <option value="$PROJECT_DIR$/test/aws-cdk-sample.test.d.ts" />
         <option value="$PROJECT_DIR$/test/aws-cdk-sample.test.js" />
+        <option value="$PROJECT_DIR$/lib/code-pipeline-stack.d.ts" />
+        <option value="$PROJECT_DIR$/lib/code-pipeline-stack.js" />
       </list>
     </option>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="814" y="357" key="#Other_File_Types" timestamp="1575098170438">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="814" y="357" key="#Other_File_Types/0.23.1920.1177/0.-1057.1920.1057@0.23.1920.1177" timestamp="1575098170438" />
+    <state x="814" y="357" key="#TypeScript" timestamp="1575099877763">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="814" y="357" key="#TypeScript/0.23.1920.1177/0.-1057.1920.1057@0.23.1920.1177" timestamp="1575099877763" />
+    <state x="879" y="413" width="670" height="676" key="search.everywhere.popup" timestamp="1575136363683">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="879" y="413" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177/0.-1057.1920.1057@0.23.1920.1177" timestamp="1575136363683" />
   </component>
 </project>

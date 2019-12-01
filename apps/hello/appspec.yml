@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+  - source: index.html
+    destination: /var/www/html
+  - source: nginx.conf
+    destination: /etc/nginx/
+hooks:
+  ApplicationStop:
+    - location: hooks/1-application-stop.sh
+  BeforeInstall:
+    - location: hooks/2-before-install.sh
+  ApplicationStart:
+    - location: hooks/3-application-start.sh
